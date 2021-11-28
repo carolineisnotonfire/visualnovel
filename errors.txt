@@ -1,0 +1,11 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 37: Line is indented, but the preceding say statement statement does not expect a block. Please check this line's indentation.
+    player_age = renpy.input("Quantos anos você tem? (Escolhemos isso também caso esteja"
+    ^
+                " indeciso! Mas por favor, só digite os números e não '18 anos' por exemplo.)")
+
+Ren'Py Version: Ren'Py 7.4.10.2178
+Sun Nov 28 10:35:04 2021
