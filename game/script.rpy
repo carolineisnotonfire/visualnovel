@@ -3,10 +3,6 @@ define e = Character("Eric")
 define c = Character("[player_name]")
 
 
-
-
-# The game starts here.
-
 label start:
     stop music fadeout 1.0
 
