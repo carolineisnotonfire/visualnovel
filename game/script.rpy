@@ -59,7 +59,7 @@ label motorista:
     scene busanime with dissolve
     
     "Você se aproxima do motorista depois de descer do ônibus, ele parece ocupado folheando algumas páginas."
-    c "*Limpa a garganta* Ei, com licença, você pode me dizer como eu saio daqui?"
+    c "*Ahem* Ei, com licença, você pode me dizer como eu saio daqui?"
     show busdriver
     m "Ora! Veja só você! Deve ser uma pessoa nova por aqui, hoho!"
     "Você olha desconfortavelmente pros lados pra ver se alguém notou esse velho safado falando assim com você, aparentemente não."
